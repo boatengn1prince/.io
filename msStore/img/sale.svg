@@ -1,0 +1,19 @@
+<svg id="Ticker" xmlns="http://www.w3.org/2000/svg" width="20" height="50" viewBox="0 0 20 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ed1c24;
+      }
+
+      .cls-2 {
+        font-size: 10px;
+        fill: #fff;
+        font-family: Roboto;
+        font-weight: 300;
+        text-transform: uppercase;
+      }
+    </style>
+  </defs>
+  <rect id="Sale" class="cls-1" width="20" height="50"/>
+  <text id="sale-2" data-name="sale" class="cls-2" transform="translate(6.646 11) rotate(90) scale(0.993 0.977)">sale</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg id="Ticker" xmlns="http://www.w3.org/2000/svg" width="20" height="50" viewBox="0 0 20 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #00c8c8;
+      }
+
+      .cls-2 {
+        font-size: 10px;
+        fill: #fff;
+        font-family: Roboto;
+        font-weight: 300;
+        text-transform: uppercase;
+      }
+    </style>
+  </defs>
+  <rect id="NEW" class="cls-1" width="20" height="50"/>
+  <text id="NEW-2" data-name="NEW" class="cls-2" transform="translate(6.646 14) rotate(90) scale(0.993 0.977)">NEW</text>
+</svg>

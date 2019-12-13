@@ -1289,9 +1289,6 @@ select:invalid:focus {
 }
 
 @media screen and (max-width: 610px) {
-  .sub-descr {
-    padding-bottom: 20px;
-  }
   .best__inner {
     display: -ms-grid;
     display: grid;
@@ -1301,6 +1298,9 @@ select:invalid:focus {
   }
   .best__inner .discount-block {
     background-position: center center;
+  }
+  .sub__inner .sub-descr {
+    padding-bottom: 20px;
   }
   .sub__inner .sub-form form input {
     width: 350px;
@@ -1328,6 +1328,9 @@ select:invalid:focus {
     -webkit-box-align: center;
         -ms-flex-align: center;
             align-items: center;
+  }
+  .sub__inner .sub-form form input {
+    width: 250px;
   }
 }
 
@@ -1376,10 +1379,6 @@ select:invalid:focus {
 
 .sub__inner .sub-descr {
   padding-right: 5px;
-}
-
-.sub__inner .sub-form form input {
-  width: 200px;
 }
 
 @media screen and (max-width: 500px) {

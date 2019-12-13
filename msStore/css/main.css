@@ -1444,7 +1444,7 @@ select:invalid:focus {
     display: block;
   }
   .best__inner .best-container .best-items .products-item {
-    margin: 0 auto;
+    margin: 5% auto;
   }
   .save__inner .save-content {
     margin-left: 20%;
